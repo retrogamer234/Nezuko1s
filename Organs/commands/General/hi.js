@@ -12,7 +12,7 @@ module.exports = {
             await client.sendMessage(m.from,{text:`Hello ${nme}`},{quoted:m})
 
         }else{
-        await client.sendMessage(m.from,{text:`Hello ${pushName}`},{quoted:m})
+        await client.sendMessage(m.from,{text:`ʜᴇʟʟᴏ ${pushName}`},{quoted:m})
         }
     }
 }
