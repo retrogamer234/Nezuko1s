@@ -4,7 +4,7 @@ module.exports={
     name:"panties",
     alias:["pantsu"],
     usage:`${prefa}panties`,
-    desc:"Gives you hentai panties image",
+    desc:"Pervert!",
     react:"💦",
 
     category:"Nsfw",
@@ -20,8 +20,8 @@ module.exports={
 
     let buttonMessage = {
         image: {url:ass},
-        caption: `*👙*`,
-        footer: `*©Eternity-Team*`,
+        caption: `*Pervert!*`,
+        footer: `*©ᴍɪᴛꜱᴜ*`,
         buttons: buttons,
         headerType: 4
     }
