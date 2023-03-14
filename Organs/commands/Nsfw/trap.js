@@ -20,8 +20,8 @@ module.exports={
 
     let buttonMessage = {
         image: {url:wife.data.url},
-        caption: `*🥵 AHHHH*`,
-        footer: `*©Eternity-Team*`,
+        caption: `*You sus bro/sis*`,
+        footer: `*ᴍɪᴛꜱᴜ*`,
         buttons: buttons,
         headerType: 4
     }
