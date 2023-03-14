@@ -7,7 +7,7 @@ module.exports={
     react:"✅",
 
     start:async(client,m,{text,ban,pushName,iscreator,mentionByTag,args,body,quoted,mime})=>{
-        if(!iscreator) return client.sendMessage(m.from,{text:'*Only mods can use this command*'},{quoted:m})
+        if(!iscreator) return client.sendMessage(m.from,{text:'*Only owner can use this command*'},{quoted:m})
   
         const mention= await mentionByTag
 
