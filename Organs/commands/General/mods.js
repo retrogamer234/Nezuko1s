@@ -11,7 +11,7 @@ module.exports = {
     const mod = global.owner;
     const owner = mod.map((mod) => mod + "@s.whatsapp.net");
     let mo = `
-*🎉 Nᴇᴢᴜᴋᴏ Mᴏᴅs 🎉*\n`;
+*🎉 ɴᴇᴢᴜᴋᴏ ᴏᴡɴᴇʀ 🎉*\n`;
     for (let i = 0; i < mod.length; i++) {
       const um = await client.username(mod[i] + "@s.whatsapp.net");
       mo += `\n*👑 Name:* ${um}\n*🚀 Contact:* @${mod[i].split("@")[0]}\n`;
