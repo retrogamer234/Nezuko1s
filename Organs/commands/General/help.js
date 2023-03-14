@@ -57,7 +57,7 @@ let cm=commands.keys()
         } else {
         var emo=["📖","🍁","🍀","🌊","🎵","🔞","🎟","♨️","🉐",]
         } 
-        let txt = `*Kon'nichiwa (｡♡‿♡｡)* ${pushName} Watashiwa *Nezuko*.
+        let txt = `*ʜᴇʟʟᴏ* ${pushName} ᴡᴀᴛᴀꜱʜɪᴡᴀ *ɴᴇᴢᴜᴋᴏ*.
                        
 🧧 *Prefix :* [ ${prefix} ]
                        
@@ -77,7 +77,7 @@ let cm=commands.keys()
     let hbutto = {
         image: {url: eternitylogo.image},
         caption: txt,
-        footer: '©Eternity-Team',
+        footer: 'ᴍɪᴛꜱᴜ',
         buttons: Button,
         headerType: 4
     }
